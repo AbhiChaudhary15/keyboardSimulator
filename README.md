@@ -1,4 +1,4 @@
-# Keyboard Simulator - [Live_demo](https://99dino.github.io/keyboard-simulator/)
+# Keyboard Simulator - [Live_demo](https://abhichaudhary15.github.io/keyboardSimulator/)
 
 ![Landing Page](img/Landing.png)
 Keyboard Simulator that simulates typing on a variety of custom keyswitches and offers a simple typing test.
